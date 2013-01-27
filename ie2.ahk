@@ -1,6 +1,6 @@
 ﻿Gui Add, ActiveX, x0 y0 w1000 h900 vWB, Shell.Explorer  ; 最后一个参数是 ActiveX 组件的名称.
 
-
+;测试 git1
 
 WB.Navigate("http://tzgl.ynjy.cn/")  ; 这是 web 浏览器控件的特性.
 
